@@ -14,10 +14,12 @@ declarar uma matriz 2D representando vendas;
 Etapa 1 – Exibição organizada
 Percorra a matriz e exiba os valores organizados por vendedor. Analise e responda:
 
-Quantas linhas existem?
-R.: 3
-Quantas colunas existem?
-R.: 3
+* Quantas linhas existem?
+
+  * R.: 3
+* Quantas colunas existem?
+
+  * R.: 3
 
 Etapa 2 – Total por vendedor
 Calcule o total vendido por cada vendedor. Para isso: utilize laços aninhados; reinicie o acumulador para cada linha.
