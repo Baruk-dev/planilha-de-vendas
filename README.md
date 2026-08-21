@@ -14,10 +14,10 @@ declarar uma matriz 2D representando vendas;
 Etapa 1 – Exibição organizada
 Percorra a matriz e exiba os valores organizados por vendedor. Analise e responda:
 
-* Quantas linhas existem?
-  * R.: 3
-* Quantas colunas existem?
-  * R.: 3
+Quantas linhas existem?
+R.: 3
+Quantas colunas existem?
+R.: 3
 
 Etapa 2 – Total por vendedor
 Calcule o total vendido por cada vendedor. Para isso: utilize laços aninhados; reinicie o acumulador para cada linha.
@@ -52,9 +52,11 @@ Etapa 6 – Texto explicativo
 * Como os laços aninhados foram utilizados?
 
   * R.: Foram utilizados para percorrer a matriz de vendas. O laço externo percorre os vendedores (linhas) e o laço interno percorre as vendas de cada vendedor (colunas), oque faz ele acessar todos os valores da matriz.
+
 * Como foi feito o controle de índices?
 
   * R.: Com as variáveis i e j, o i representa o indice das linhas e o j o indice das colunas.
+
 * Qual foi o resultado da análise?
 
   * R.: O resultado mostrou que o vendedor 0 teve um total de 3800 vendas, o vendedor 1 3700 vendas e o vendedor 2 4200 vendas, ao todo foi um total de 11700 vendas, e o melhor vendeor foi o 2 com 4200 vendas.
