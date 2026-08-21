@@ -38,6 +38,7 @@ Etapa 5 – Melhor vendedor
 Identifique qual vendedor obteve maior total de vendas. Ele deve exibir:
 
 o melhor vendedor.
+
 Etapa 6 – Texto explicativo
 *Analise todos os passos realizados e responda:
 
